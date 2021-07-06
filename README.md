@@ -84,9 +84,9 @@ You should aim to finish within 10-12 hours of receiving this gist. These are op
 **(2)** Bundle your git repo
 
 ```
-git bundle create wifisoft-challenge.bundle HEAD
+git bundle create test-challenge.bundle HEAD
 ```
-**(3)** E-mail your `wifisoft-challenge.bundle` file to m.igbinedion@gmail.com
+**(3)** E-mail your `test-challenge.bundle` file to m.igbinedion@gmail.com
 
 ------------------------------------------------
 
